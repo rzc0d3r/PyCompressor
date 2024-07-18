@@ -25,6 +25,7 @@ PyCompressor - Compresses python files, making the code shorter and more undetec
 ---
 
 ## Screenshots
+### Successful compression/decompression
 #### Code compression in the catalog:
 ![compress catalog](img/compressing_catalog.png)
 
@@ -38,3 +39,9 @@ PyCompressor - Compresses python files, making the code shorter and more undetec
 
 #### Code decompression in a file:
 ![decompress file](img/decompressing_file.png)
+
+---
+
+### Causes File skipping
+#### Attempt to decompress decompressed code
+![decompressing_not_compressed_file](img/decompressing_not_compressed_file.png)
