@@ -6,6 +6,9 @@ PyCompressor - Compresses python files, making the code shorter and more undetec
 - **Compressed code will work as well as the source code!!!**
 
 ### But this removes the possibility of normal assembly by pyinstaller!!!
+To build, you will have to manually **specify all dependencies**: modules, folders, various files.
+
+This will significantly increase the size of the assembly....
 
 ---
 
