@@ -5,6 +5,10 @@ PyCompressor - Compresses python files, making the code shorter and more undetec
 
 - **Compressed code will work as well as the source code!!!**
 
+### But this removes the possibility of normal assembly by pyinstaller!!!
+
+---
+
 - The program supports 2 modes of operation: code compression and decompression
 
 - It also supports input of both a **single file** for processing and a **whole directory**
